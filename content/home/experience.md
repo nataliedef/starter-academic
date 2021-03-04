@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD Student Researcher
     company: Laboratory of Dr. Amit Majithia 
-    company_url: ''
+    company_url: 'https://medschool.ucsd.edu/som/medicine/divisions/endocrinology/research/labs/majithia/pages/default.aspx'
     location: UC San Diego Dept. of Medicine
     date_start: '2018-09-01'
     date_end: ''
