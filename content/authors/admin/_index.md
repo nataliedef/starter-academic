@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Pharmaceutical Chemistry, Minor in Quantitative Biology & Bioinformatics
+  - course: BSc in Pharmaceutical Chemistry, Minor in Quantitative Biology & Bioinformatics, summa cum laude
     institution: Univ. of California Davis
     year: 2018
 #  - course: BSc in Artificial Intelligence
