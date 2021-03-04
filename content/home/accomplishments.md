@@ -39,5 +39,14 @@ item:
   organization_url: #https://www.edx.org
   title: Best Poster Awardee - 2nd Place
   url: #https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: #https://www.edx.org
+  date_end: ""
+  date_start: "2018-06-01"
+  description: "Thesis: Chemoenzymatic Synthesis of Sialyl Lewis X, A Biologically Important Tetrasaccharide, and the Cloning and
+Characterization of Enzymes for Carbohydrate Synthesis"
+  organization: UC Davis Dept. of Chemistry 
+  organization_url: #https://www.edx.org
+  title: Departmental Highest Honors Research Award
+  url: #https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 ---
