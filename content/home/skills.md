@@ -19,7 +19,7 @@ feature:
 - # description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Proficiency in scripting languages (R, Python)
 - # description: 90%
   icon: align-right
   icon_pack: fas
