@@ -3,7 +3,7 @@
 To publish:
 ```
 git add .
-git commit -m "Initial commit"
+git commit -m "Commit changes"
 git push -u origin main
 
 
