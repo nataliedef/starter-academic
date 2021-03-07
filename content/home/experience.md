@@ -55,5 +55,12 @@ experience:
     location: South San Francisco, CA
     date_start: '2017-06-01'
     date_end: '2017-09-01'
+    description:
+  - title: Clinical Data Intern
+    company: Pharmacyclics, an AbbVie company
+    company_url: ''
+    location: Sunnyvale, CA
+    date_start: '2016-06-01'
+    date_end: '2016-09-01'
     description: 
 ---
