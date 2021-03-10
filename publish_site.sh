@@ -8,7 +8,7 @@
 echo "Enter commit message:"
 read message
 
-message="\"$message\""
+# message="\"$message\""
 echo Pushing changes to website repository...
 git add .
 git commit -m "$message"
