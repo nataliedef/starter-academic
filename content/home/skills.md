@@ -23,7 +23,7 @@ feature:
 - # description: 90%
   icon: align-right
   icon_pack: fas
-  name: Next-generation sequencing, bulk/single cell RNA-seq, ATAC-seq, ChIP-seq
+  name: Next-generation sequencing (NGS), bulk/single cell RNA-seq, ATAC-seq, ChIP-seq analysis
 - # description: 90%
   icon: server
   icon_pack: fas
@@ -31,7 +31,7 @@ feature:
 - #description: 10%
   icon: dna
   icon_pack: fas
-  name: Population genetics analyses 
+  name: Statistical genetics (GWAS, PheWAS, Fine mapping, Gene burden testing)
 - # description: 100%
   icon: chart-line
   icon_pack: fas
