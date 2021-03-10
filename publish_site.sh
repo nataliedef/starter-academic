@@ -14,10 +14,10 @@ git add .
 git commit -m "$message"
 git push -u origin main
 
-# echo Publishing website...
-# hugo
-# cd public
-# git add .
-# git commit -m "Build website"
-# git push origin main
+echo Publishing website...
+hugo
+cd public
+git add .
+git commit -m "Build website"
+git push origin main
 
