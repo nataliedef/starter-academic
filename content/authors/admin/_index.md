@@ -20,7 +20,7 @@ bio: My research interests include computational genomics, human genetics, and m
 interests:
 - Computational genomics
 - Human population genetics
-- High-throughput genomic screens 
+- High-throughput genomic screens / Deep mutational scanning
 - Metabolic disease
 
 # Education to show in About widget
