@@ -43,7 +43,7 @@ social:
   link: 'mailto:ndefores@ucsd.edu'
 #- icon: twitter
 #  icon_pack: fab
-#  link: https://twitter.com/Natalie_DeF
+#  link: 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=OhmV_2IAAAAJ&view_op=list_works&gmla=AJsN-F5vTdso_aFtsXByTKTNiDJMMjBko8T9gfAaAuKVnmbmXgFXVhnQAnOz0HuxmjMHWJaoRlj2rdSKnjs0goN4g-cXOW9eD4Gk2k_-4w7_YC57ZZFQ5TU
