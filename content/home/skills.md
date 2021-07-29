@@ -31,7 +31,7 @@ feature:
 - #description: 10%
   icon: dna
   icon_pack: fas
-  name: Statistical genetics (GWAS, PheWAS, Fine mapping, Gene burden testing)
+  name: Statistical genetics
 - # description: 100%
   icon: chart-line
   icon_pack: fas
