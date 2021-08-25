@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Biomedical Sciences / Bioinformatics PhD student at University of California (UC) San Diego. My research combines high-throughput genomic screens and human genetics of population-based cohorts to understand, treat, and diagnose prevalent metabolic disorders such as type 2 diabetes and cardiovascular disease. 
+I am a Biomedical Sciences / Bioinformatics PhD student at University of California (UC) San Diego. My research integrates high-throughput genomic screens and human genetics of population-based cohorts to understand, diagnose, and treat prevalent metabolic disorders such as type 2 diabetes and cardiovascular disease. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.""" -->
