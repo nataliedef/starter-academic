@@ -6,7 +6,7 @@ title: Natalie DeForest
 superuser: true
 
 # Role/position/tagline
-role: Biomedical Sciences PhD Student
+role: Biomedical Sciences PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
