@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Student Researcher
+  - title: Graduate Student Researcher
     company: Laboratory of Dr. Amit Majithia 
     company_url: 'https://medschool.ucsd.edu/som/medicine/divisions/endocrinology/research/labs/majithia/pages/default.aspx'
     location: UC San Diego Dept. of Medicine
