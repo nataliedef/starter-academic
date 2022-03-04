@@ -2,13 +2,17 @@
 title: "In Vitro Hepatic Uptake in Human and Monkey Hepatocytes in the Presence and Absence of Serum Protein and Its In Vitro to In Vivo Extrapolation"
 authors:
 - X Liang, Y Park, N DeForest, J Hao, X Zhao, C Niu, K Wang, B Smith, Y Lai
+# - admin
+# - Robert Ford
 author_notes:
+- ""
+# - "Equal contribution"
 # - "Equal contribution"
 date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "" #"2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,10 +35,10 @@ tags:
 featured: false
 
 # links:
-- name: "test"
-   url: "https://dmd.aspetjournals.org/content/48/12/1283.abstract"
+# - name: ""
+#   url: ""
 url_pdf: ''
-url_code: ''
+url_code: 'https://dmd.aspetjournals.org/content/48/12/1283.abstract'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -63,13 +67,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
