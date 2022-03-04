@@ -23,8 +23,6 @@ abstract: It is well documented that human hepatic clearance based on in vitro m
 # Summary. An optional shortened abstract.
 summary: We investigated the protein effect on hepatic uptake in human and monkey hepatocytes and improved the in vitro to in vivo extrapolation using parameters obtained from the incubation in the present of serum protein. In addition, significantly higher active uptake clearances were observed in monkey hepatocytes than in human, and the species differences appeared to be compound dependent. The physiologically based pharmacokinetic model that incorporates scaling factors calibrated in monkey and together with scaled in vitro human data can be a reliable approach for the prospective human pharmacokinetics prediction.
 
-tags:
-- Source Themes
 featured: false
 
 # links:
