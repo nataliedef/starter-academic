@@ -2,7 +2,6 @@
 title: "In Vitro Hepatic Uptake in Human and Monkey Hepatocytes in the Presence and Absence of Serum Protein and Its In Vitro to In Vivo Extrapolation"
 authors:
 - X Liang, Y Park, N DeForest, J Hao, X Zhao, C Niu, K Wang, B Smith, Y Lai
-author_notes:
 date: "2020-12-01T00:00:00Z"
 doi: "https://doi.org/10.1124/dmd.120.000163"
 
