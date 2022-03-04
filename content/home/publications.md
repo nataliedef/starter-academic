@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
-  item_type: publication
   # Filter on criteria
   filters:
     folders: 
+      - publication
     tag: ''
     category: ''
     publication_type: ''
@@ -32,7 +32,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: list
   columns: '2'
 ---
 
