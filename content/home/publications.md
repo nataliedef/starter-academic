@@ -15,7 +15,7 @@ subtitle: ''
 content:
   # Filter on criteria
   filters:
-    page_type:
+    item_type:
       - publication
     tag: ''
     category: ''
