@@ -9,14 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
-    item_type:
-      - publication
+    item_type: 'publication'
     tag: ''
     category: ''
     publication_type: ''
