@@ -4,7 +4,8 @@ authors:
 - X Liang, Y Park, N DeForest, J Hao, X Zhao, C Niu, K Wang, B Smith, Y Lai
 # - admin
 # - Robert Ford
-# author_notes:
+author_notes:
+- ""
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2020-12-01T00:00:00Z"
@@ -66,13 +67,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
