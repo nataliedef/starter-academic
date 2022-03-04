@@ -2,9 +2,11 @@
 title: "In Vitro Hepatic Uptake in Human and Monkey Hepatocytes in the Presence and Absence of Serum Protein and Its In Vitro to In Vivo Extrapolation"
 authors:
 - X Liang, Y Park, N DeForest, J Hao, X Zhao, C Niu, K Wang, B Smith, Y Lai
+- Robert Ford
 author_notes:
-# - "Equal contribution"
-date: "2020-12-01T00:00:00Z"
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,14 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Drug Metabolism and Disposition 48*(12)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: It is well documented that human hepatic clearance based on in vitro metabolism or transporter assays systematically resulted in underprediction; therefore, large empirical scalars are often needed in either static or physiologically based pharmacokinetic (PBPK) models to accurately predict human pharmacokinetics (PK). In our current investigation, we assessed hepatic uptake in hepatocyte suspension in Krebs-Henseleit buffer in the presence and absence of serum. The results showed that the unbound intrinsic active clearance (CLu,int,active) values obtained by normalizing the unbound fraction in the buffer containing 10% serum were generally higher than the CLu,int,active obtained directly from protein free buffer, suggesting “protein-facilitated” uptake. The differences of CLu,int,active in the buffer with and without protein ranged from 1- to 925-fold and negatively correlated to the unbound serum binding of organic anion transporting polypeptide substrates. When using the uptake values obtained from buffer containing serum versus serum-free buffer, the median of scaling factors (SFs) for CLu,int,active reduced from 24.2–4.6 to 22.7–7.1 for human and monkey, respectively, demonstrating the improvement of in vitro to in vivo extrapolation in a PBPK model. Furthermore, values of CLu,int,active were significantly higher in monkey hepatocytes than that in human, and the species differences appeared to be compound dependent. Scaling up in vitro uptake values derived in assays containing species-specific serum can compensate for the species-specific variabilities when using cynomolgus monkey as a probe animal model. Incorporating SFs calibrated in monkey and together with scaled in vitro data can be a reliable approach for the prospective human PK prediction in early drug discovery.
-
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: We investigated the protein effect on hepatic uptake in human and monkey hepatocytes and improved the in vitro to in vivo extrapolation using parameters obtained from the incubation in the present of serum protein. In addition, significantly higher active uptake clearances were observed in monkey hepatocytes than in human, and the species differences appeared to be compound dependent. The physiologically based pharmacokinetic model that incorporates scaling factors calibrated in monkey and together with scaled in vitro human data can be a reliable approach for the prospective human pharmacokinetics prediction.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -32,9 +33,9 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://dmd.aspetjournals.org/content/48/12/1283.abstract"
-url_pdf: ''
-url_code: ''
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,7 +62,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
 {{% callout note %}}
