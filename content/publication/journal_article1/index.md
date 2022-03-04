@@ -30,9 +30,9 @@ tags:
 - Source Themes
 featured: false
 
-links:
-- name: "test"
-   url: "https://dmd.aspetjournals.org/content/48/12/1283.abstract"
+# links:
+# - name: "test"
+url: "https://dmd.aspetjournals.org/content/48/12/1283.abstract"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
