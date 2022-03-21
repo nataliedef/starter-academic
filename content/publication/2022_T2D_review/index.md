@@ -18,14 +18,14 @@ publication_types: ["2"]
 publication: "*Current Diabetes Reports*, March 2022"
 publication_short: ""
 
-abstract: Purpose of Review
+abstract: 'Purpose of Review:
 Type 2 diabetes (T2D) is a multifactorial, heritable syndrome characterized by dysregulated glucose homeostasis that results from impaired insulin secretion and insulin resistance. Genetic association studies have successfully identified hundreds of T2D risk loci implicating many genes in disease pathogenesis. In this review, we provide an overview of the recent T2D genetic studies from the past 3 years with particular focus on the effects of sample size and ancestral diversity on genetic discovery as well as discuss recent work on the use and limitations of genetic risk scores (GRS) for T2D risk prediction.
 
-Recent Findings
+Recent Findings:
 Recent large-scale, multi-ancestry genetic studies of T2D have identified over 500 novel risk loci. The genetic variants (i.e., single nucleotide polymorphisms (SNPs)) marking these novel loci in general have smaller effect sizes than previously discovered loci. Inclusion of samples from diverse ancestral backgrounds shows a few ancestry specific loci marked by common variants, but overall, the majority of loci discovered are common across ancestries. Inclusion of common variant GRS, even with hundreds of loci, does not substantially increase T2D risk prediction over standard clinical risk factors such as age and family history.
 
-Summary
-Common variant association studies of T2D have now identified over 700 T2D risk loci, half of which have been discovered in the past 3 years. These recent studies demonstrate that inclusion of ancestrally diverse samples can enhance locus discovery and improve accuracy of GRS for T2D risk prediction. GRS based on common variants, however, only minimally enhances risk prediction over standard clinical risk factors.
+Summary:
+Common variant association studies of T2D have now identified over 700 T2D risk loci, half of which have been discovered in the past 3 years. These recent studies demonstrate that inclusion of ancestrally diverse samples can enhance locus discovery and improve accuracy of GRS for T2D risk prediction. GRS based on common variants, however, only minimally enhances risk prediction over standard clinical risk factors.'
 
 
 featured: false
