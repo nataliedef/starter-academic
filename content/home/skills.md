@@ -23,15 +23,15 @@ feature:
 - # description: 90%
   icon: align-right
   icon_pack: fas
-  name: Next-generation sequencing (NGS), bulk/single cell RNA-seq, ATAC-seq, ChIP-seq analysis
+  name: Next-generation sequencing (NGS), RNA-seq, ATAC-seq, ChIP-seq analysis
 - # description: 90%
   icon: server
   icon_pack: fas
-  name: Linux based high performance computing
+  name: High performance computing, Git version control
 - #description: 10%
   icon: dna
   icon_pack: fas
-  name: Statistical genetics
+  name: Human population genetics
 - # description: 100%
   icon: chart-line
   icon_pack: fas
