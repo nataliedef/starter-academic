@@ -1,7 +1,7 @@
 ---
 title: "Characterization of Hepatocytes Uptake Clearance of Organic Anion Transporting Polypeptide (OATPs) Substrates in Human and Cynomolgus Cryopreserved Hepatocytes"
 authors:
-- X Liang, N Deforest, Y Park, J Hao, X Zhao, Y Lai
+- X Liang, **N Deforest**, Y Park, J Hao, X Zhao, Y Lai
 date: "2019-04-01T00:00:00Z"
 doi: "https://doi.org/10.1096/fasebj.2019.33.1_supplement.507.8"
 
