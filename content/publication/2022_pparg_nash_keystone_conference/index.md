@@ -19,7 +19,7 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[Poster session], Inter Organ Crostaak in NASH, Whistler, Canada"
+publication: "[Poster session], *Keystone Conference: Inter Organ Crosstalk in NASH*. Whistler, Canada"
 publication_short: ""
 
 abstract: 
