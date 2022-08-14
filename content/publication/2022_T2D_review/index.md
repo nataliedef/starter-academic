@@ -28,7 +28,7 @@ Summary:
 Common variant association studies of T2D have now identified over 700 T2D risk loci, half of which have been discovered in the past 3 years. These recent studies demonstrate that inclusion of ancestrally diverse samples can enhance locus discovery and improve accuracy of GRS for T2D risk prediction. GRS based on common variants, however, only minimally enhances risk prediction over standard clinical risk factors.'
 
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

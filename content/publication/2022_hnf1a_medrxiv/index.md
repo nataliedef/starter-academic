@@ -21,7 +21,7 @@ publication_short: ""
 abstract: Loss-of-function mutations in Hepatocyte Nuclear Factor 1A (HNF1A) are known to cause rare forms of diabetes and alter hepatic physiology through unclear mechanisms. In the general population, 1:100 individuals carry a rare protein-coding variant in HNF1A, most of unknown functional consequence. To characterize the full allelic series, we performed deep mutational scanning of 11,970 protein-coding HNF1A variants in human hepatocytes and clinical correlation with 553,246 exome-sequenced individuals. Surprisingly, we found ~1:5 rare protein-coding HNF1A variants found in the general population cause molecular gain-of-function (GOF), increasing the transcriptional activity of HNF1A by up to 50%. GOF in HNF1A conferred protection from type 2 diabetes (T2D) (OR=0.60, p=8.4 x 10-7), but not against coronary artery disease. Independently of T2D, increased hepatic expression of HNF1A promoted a pro-inflammatory and pro-atherogenic serum profile mediated in part by enhanced transcription of risk genes including PCSK9. In summary, ~1:300 individuals carry a GOF variant in HNF1A that protects carriers from diabetes but enhances hepatic secretion of metabolic disease risk factors.
 
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
