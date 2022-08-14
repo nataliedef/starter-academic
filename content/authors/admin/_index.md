@@ -20,12 +20,15 @@ bio: My research interests include computational genomics, human genetics, and m
 interests:
 - Computational genomics
 - Human population genetics
-- High-throughput genomic screens / Deep mutational scanning
+- Functional genomics
 - Metabolic disease
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Biomedical Sciences with Specialization in Bioinformatics
+    institution: Univ. of California San Diego
+    year: Expected 2023
   - course: BSc in Pharmaceutical Chemistry, Minor in Quantitative Biology & Bioinformatics, summa cum laude
     institution: Univ. of California Davis
     year: 2018
