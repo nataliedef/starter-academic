@@ -1,5 +1,5 @@
 ---
-title: "A seven-transmembrane protein-TM7SF3, resides in nuclear speckles and regulates alternative splicing"
+title: "A seven transmembrane protein TM7SF3, resides in nuclear speckles and regulates alternative splicing"
 authors:
 - R Isaac, Y Vinik, M Mikl, S Nadav Eliyahu, H Shatz Azoulay, A Yaakobi, N DeForest, A Majithia, N Webster, Y Shav Tal, E Elhanany, Y Zick
 date: "2022-11-01T00:00:00Z"
