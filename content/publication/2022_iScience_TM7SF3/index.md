@@ -26,7 +26,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2589004222015425/pdfft?md5=e3fe5da1e45d7bd907bf7c80f1657c2f&pid=1-s2.0-S2589004222015425-main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
