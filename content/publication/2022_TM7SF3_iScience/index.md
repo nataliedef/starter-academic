@@ -3,7 +3,7 @@ title: "A seven-transmembrane protein-TM7SF3, resides in nuclear speckles and re
 authors:
 - R Isaac, Y Vinik, M Mikl, S Nadav-Eliyahu, H Shatz-Azoulay, A Yaakobi, N DeForest, A Majithia, N Webster, Y Shav-Tal, E Elhanany, Y Zick
 date: "2022-11-01T00:00:00Z"
-doi: "https://doi.org/10.1124/dmd.120.000163"
+doi: "https://doi.org/10.1016/j.isci.2022.105270"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
