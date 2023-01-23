@@ -55,14 +55,14 @@ social:
   link: https://github.com/nataliedef
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/natalie-deforest-7201b3a2/
+  link: https://www.linkedin.com/in/natalie-deforest/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/DeForest_N_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
