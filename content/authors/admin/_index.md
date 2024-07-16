@@ -6,12 +6,12 @@ title: Natalie DeForest
 superuser: true
 
 # Role/position/tagline
-role: Biomedical Sciences PhD Candidate
+role: Senior Scientist, Computational Genomics @ FaunaBio
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Univ. of California San Diego
-  url: https://ucsd.edu/
+# organizations:
+# - name: Fauna Bio
+#   url: https://www.faunabio.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computational genomics, human genetics, and metabolic disease.
@@ -20,7 +20,6 @@ bio: My research interests include computational genomics, human genetics, and m
 interests:
 - Computational genomics
 - Human population genetics
-- Functional genomics
 - Metabolic disease
 
 # Education to show in About widget
@@ -28,7 +27,7 @@ education:
   courses:
   - course: PhD in Biomedical Sciences with Specialization in Bioinformatics
     institution: Univ. of California San Diego
-    year: Expected 2023
+    year: 2023
   - course: BSc in Pharmaceutical Chemistry, Minor in Quantitative Biology & Bioinformatics, summa cum laude
     institution: Univ. of California Davis
     year: 2018
@@ -43,13 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ndefores@ucsd.edu'
+  link: 'mailto:nataliedeforest@gmail.com'
 #- icon: twitter
 #  icon_pack: fab
 #  link: 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?hl=en&user=OhmV_2IAAAAJ&view_op=list_works&gmla=AJsN-F5vTdso_aFtsXByTKTNiDJMMjBko8T9gfAaAuKVnmbmXgFXVhnQAnOz0HuxmjMHWJaoRlj2rdSKnjs0goN4g-cXOW9eD4Gk2k_-4w7_YC57ZZFQ5TU
+  link: https://scholar.google.com/citations?user=-ZJVKWIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/nataliedef
@@ -71,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Biomedical Sciences / Bioinformatics PhD Candidate at University of California (UC) San Diego. My research integrates high-throughput genomic screens and large-scale human genetic datasets to identify and evaluate novel therapeutic targets for prevalent metabolic disorders such as type 2 diabetes and cardiovascular disease. 
+<!-- I am a Biomedical Sciences / Bioinformatics PhD Candidate at University of California (UC) San Diego. My research integrates high-throughput genomic screens and large-scale human genetic datasets to identify and evaluate novel therapeutic targets for prevalent metabolic disorders such as type 2 diabetes and cardiovascular disease.  -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.""" -->
