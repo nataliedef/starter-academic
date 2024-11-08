@@ -48,7 +48,7 @@ social:
 #  link: 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?hl=en&user=OhmV_2IAAAAJ&view_op=list_works&gmla=AJsN-F5vTdso_aFtsXByTKTNiDJMMjBko8T9gfAaAuKVnmbmXgFXVhnQAnOz0HuxmjMHWJaoRlj2rdSKnjs0goN4g-cXOW9eD4Gk2k_-4w7_YC57ZZFQ5TU
+  link: https://scholar.google.com/citations?user=-ZJVKWIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/nataliedef
