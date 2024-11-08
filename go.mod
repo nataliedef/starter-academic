@@ -1,6 +1,5 @@
 module github.com/wowchemy/starter-academic
 
-#go 1.15
 go 1.23.3
 
 require (
