@@ -18,9 +18,9 @@ bio: My research interests include computational genomics, human genetics, and m
 
 # Interests to show in About widget
 interests:
-- Computational genomics
+- Computational genomics & Bioinformatics
 - Human population genetics
-- Metabolic disease
+- Biomedical science and Pharmaceutical development
 
 # Education to show in About widget
 education:
